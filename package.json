@@ -1,0 +1,26 @@
+{
+  "name": "growi-md-templates",
+  "version": "1.0.0",
+  "description": "GROWI markdown templates for tech reis",
+  "license": "MIT",
+  "keywords": [
+    "growi",
+    "growi-plugin"
+  ],
+  "type": "module",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "growiPlugin": {
+    "schemaVersion": "4",
+    "types": [
+      "template"
+    ],
+    "locales": [
+      "en_US", "ja_JP"
+    ]
+  }
+}
